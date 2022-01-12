@@ -1,4 +1,4 @@
-package fr.arsenelapostolet.bibliotheque.book;
+package fr.arsenelapostolet.library.book;
 
 public interface BookState {
     void borrow(Subscriber subscriber);

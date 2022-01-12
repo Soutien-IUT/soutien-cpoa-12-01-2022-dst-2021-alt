@@ -1,7 +1,7 @@
-package fr.arsenelapostolet.bibliotheque.bookstates;
+package fr.arsenelapostolet.library.bookstates;
 
-import fr.arsenelapostolet.bibliotheque.book.Book;
-import fr.arsenelapostolet.bibliotheque.book.BookState;
+import fr.arsenelapostolet.library.book.Book;
+import fr.arsenelapostolet.library.book.BookState;
 
 public abstract class AbstractBookState implements BookState {
 

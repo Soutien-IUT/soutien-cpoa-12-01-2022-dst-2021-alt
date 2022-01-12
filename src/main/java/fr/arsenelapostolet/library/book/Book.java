@@ -1,6 +1,6 @@
-package fr.arsenelapostolet.bibliotheque.book;
+package fr.arsenelapostolet.library.book;
 
-import fr.arsenelapostolet.bibliotheque.bookstates.AvailableBookState;
+import fr.arsenelapostolet.library.bookstates.AvailableBookState;
 
 public class Book {
 

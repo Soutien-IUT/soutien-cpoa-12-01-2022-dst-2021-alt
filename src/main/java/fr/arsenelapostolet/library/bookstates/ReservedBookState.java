@@ -1,7 +1,7 @@
-package fr.arsenelapostolet.bibliotheque.bookstates;
+package fr.arsenelapostolet.library.bookstates;
 
-import fr.arsenelapostolet.bibliotheque.book.Book;
-import fr.arsenelapostolet.bibliotheque.book.Subscriber;
+import fr.arsenelapostolet.library.book.Book;
+import fr.arsenelapostolet.library.book.Subscriber;
 
 public class ReservedBookState extends AbstractBookState {
     private final Subscriber borrower;
